@@ -1,4 +1,4 @@
-# Project Description
+# Simulation ball movement 
 In simulation ball movement a ball is made to move in vertical direction in fixed velocity.
 The ball moves in top to bottom and wise versa which refers to be bouncing.
 The ball is made to move in X and Y axis. 
